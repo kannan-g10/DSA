@@ -9,4 +9,4 @@ const isPalindrome = str => {
 
 console.log(isPalindrome('abba'));
 console.log(isPalindrome('malayalam'));
-console.log(isPalindrome('Hello world'));
+console.log(isPalindrome('Hello world!'));
