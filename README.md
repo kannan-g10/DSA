@@ -1,6 +1,7 @@
-# This is series of HuXn DSA course
+# This DSA series where i record my learning
 
 ## Topics
 
 - Big O notation
 - Array
+- Recursion
